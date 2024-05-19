@@ -1,0 +1,2 @@
+Results, indicating potential plagiarism, are output as a set of tuples showing pairs of
+document names and their corresponding similarity scores.
